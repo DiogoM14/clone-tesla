@@ -1,4 +1,5 @@
 import React from 'react';
+import { ModelSection, ModelsWrapper } from '../../Model';
 
 import DefaultOverlayContent from '../DefaultOverlayContent';
 
